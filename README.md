@@ -12,6 +12,7 @@ A new DataFrame was then created to display the total, daily fare for each type 
 ## **Results**
 
 ![image](https://user-images.githubusercontent.com/90593897/138783623-52b64a23-b5c0-4b5e-b149-2c101d5b8502.png)
+
 As pictured by the DataFrame above, urban cities have the largest number of rides within the measured timeframe, the largest number of drivers, and the most affordable prices per ride and per driver. They also brought in the largest amount of revenue compared to suburban and rural cities; total fares were about twice as much as suburban city total fares, and almost ten times more than rural city total fares. 
 
 The opposite trend can be seen with rural city data. Rural cities had the lowest number of rides within the measured timeframe (125 rides), and the lowest number of drivers (78 drivers). They brought in the least amount of revenue within the given timeframe ($4,327.93), yet their average fares were the most expensive both per ride and per driver. By comparing this with the urban city data, it may be financially beneficial for PyBer to think about how to increase business in rural cities to lower fares and bring in more revenue within rural cities. 
