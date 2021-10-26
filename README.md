@@ -1,15 +1,15 @@
 # PyBer_Analysis
 
-**## Overview **
+## **Overview**
 
 The purpose of this analysis was to gather and display the total fares (in $ USD) from January 2019 through April 2019 for PyBer rides in the three types of cities where PyBer operates: Rural cities, Suburban cities, and Urban cities. 
 
-### Methods
+### **Methods**
 
 I used Pandas to read the data-containing CSV files into DataFrames, which were then manipulated further to obtain the requested metrics per city type. These metrics included total rides, total drivers, total fares, and average fares per ride and per driver. 
 A new DataFrame was then created to display the total, daily fare for each type of city. The total fares for each city type (Urban, Suburban, and Rural) were plotted using Matplotlib as three individual lines on one plot. The time range used was January 1, 2019 - April 29, 2019, and the results were visualized on a weekly basis during this time range. 
 
-**## Results **
+## **Results**
 
 ![image](https://user-images.githubusercontent.com/90593897/138783623-52b64a23-b5c0-4b5e-b149-2c101d5b8502.png)
 As pictured by the DataFrame above, urban cities have the largest number of rides within the measured timeframe, the largest number of drivers, and the most affordable prices per ride and per driver. They also brought in the largest amount of revenue compared to suburban and rural cities; total fares were about twice as much as suburban city total fares, and almost ten times more than rural city total fares. 
@@ -25,7 +25,7 @@ Their average fares, both per ride and driver, are in between that of rural and 
 
 Finally, as can be visualized by the graph above, the three city types are consistent in the total fare prices between January and May of 2019. Urban cities consistently bring in the most revenue in total fares, rural cities consistently bring in the lowest, and suburban cities consistently has total fares that fall in between urban and rural city fares. While there are peak weeks for each city type, they overall tend to perform the same over the measured time. 
 
-**## Results **
+## **Summary**
 
 Based on the data gathered in this analysis, PyBer should explore methods to increase their business in suburban and rural cities. This could include allocating resources to target the smaller city types in terms of marketing to attract more employees (drivers) and customers. After all, it would benefit both PyBer and the citizens of these smaller cities for the company to be able to provide more affordable fares, and increase the overall number of rides in these cities like they have in urban cities. 
 
